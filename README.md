@@ -1,5 +1,4 @@
 # PDFtrack Documents
-
 Microservicio independiente de gestión documental con persistencia en MongoDB.  
 Parte del ecosistema **PDFtrack** — responsable exclusivo de la persistencia y gestión de documentos PDF procesados.
 
