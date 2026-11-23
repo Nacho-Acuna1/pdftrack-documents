@@ -28,6 +28,7 @@ app = FastAPI(
     description="Microservicio de gestión documental con persistencia en MongoDB",
     version="1.0.0",
     lifespan=lifespan,
+    docs_url="/api/docs",
     openapi_url="/api/openapi.json",
 )
 
